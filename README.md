@@ -10,10 +10,10 @@ A plugin for **SCP: Secret Laboratory** that logs kill events (e.g., "Player X k
 - Uses Discord.Net for reliable bot integration.
 
 ## Requirements
-- **SCP: Secret Laboratory** v13.2
-- **EXILED** v9.201.0
+- **SCP: Secret Laboratory** 14.1.1
+- **EXILED** v9.6.1
 - Dependencies: `Exiled.API`, `Exiled.Events`, `Assembly-CSharp`, `Newtonsoft.Json`, `Discord.Net`
-- .NET Framework 4.7.2
+- .NET Framework 4.8
 - A Discord bot with a valid token and permissions to send messages in the target channel
 
 ## Installation
