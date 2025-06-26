@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------
-// <copyright file="Config.cs" company="YourName">
-// Copyright (c) YourName. All rights reserved.
+// <copyright file="Config.cs" company="DisLab">
+// Copyright (c) MONCEF50G. All rights reserved.
 // Licensed under the CC BY-SA 3.0 license.
 // </copyright>
 // SPDX-License-License-Identifier: CC-BY-SA-3.0
